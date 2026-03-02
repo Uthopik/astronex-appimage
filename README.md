@@ -1,0 +1,1 @@
+You can find the executable file for Windows and the source code for the Astronex programme at https://www.astro-nex.net/. However, installation for Linux was complex, so I created an Appimage version to make it easier to use.

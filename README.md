@@ -1,1 +1,2 @@
-You can find the executable file for Windows and the source code for the Astronex programme at https://www.astro-nex.net/. However, installation for Linux was complex, so I created an Appimage version to make it easier to use.
+- You can find the executable file for Windows and the source code for the Astronex programme at https://www.astro-nex.net/. However, installation for Linux was complex, so I created an Appimage version to make it easier to use.
+- In the ‘Releases’ section, I have added the source code for the Python 2 version of Astronex, and the Windows installer.

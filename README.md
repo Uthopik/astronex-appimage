@@ -7,4 +7,4 @@
 yay -S astronex-bin
 ```
 
-> ⚠️ **This is an old version of Astronex in python 2:** Now you have the **New Version in python 3**. **[Here](https://github.com/Uthopik/astronex-python-3)**
+> ⚠️ **This is an old version of Astronex in python 2:** Now you have the **New Version in python 3**. **[Here](https://uthopik.github.io/astronex)**
